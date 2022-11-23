@@ -31,3 +31,4 @@ Pull requestler kabul edilir. büyük değişiklikler için , lütfen önce neyi
 
 
 
+[PatikaDev](www.patika.dev)
